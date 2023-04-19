@@ -5,8 +5,8 @@ fun main(args: Array<String>) {
     println(name)
     println(age)
 
-    var G = 45
-    var H = 30
+    var G = 100
+    var H = 35
     var sum = G + H
     println(sum)
 
